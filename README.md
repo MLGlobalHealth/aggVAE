@@ -1,0 +1,2 @@
+# aggVAE
+Code for aggVAE
